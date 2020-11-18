@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **Shinichi23/Shinichi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
