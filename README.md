@@ -1,8 +1,7 @@
-### Hi there Welcome 👋
+### Hi there Hey there, I'm Taha. I'm a Fullstack JS developer 👋
 
 <img hight="300" width="700" alt="GIF" align="center" src="https://images.unsplash.com/photo-1579058324512-14e333833530?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
 
-![Hey there, I'm Taha. I'm a Fullstack JS developer](https://github.com/Shinichi23/Shinichi23/raw/main//Ekr1MNfVcAE21X6.jpeg )
 <!--
 **Shinichi23/Shinichi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
