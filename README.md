@@ -1,4 +1,4 @@
-### - Hey there, Welcome to my github page !
+### - Hey there, Welcome to my github page ! I'am Taha, Aspiring Fullstack JS Developer, 
 
 <hr>
 
