@@ -1,4 +1,4 @@
-### Hey wave, I'm Taha Chaoui, Welcome to my github page !
+### Hey mates, I'm Taha Chaoui, Welcome to my github page !
 
 <hr>
 
