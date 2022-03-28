@@ -1,8 +1,10 @@
-### Hey mates, I'm Taha Chaoui, Welcome to my github page !
+### Hey mates, Welcome to my github page !
 
 <hr>
+<hr>
+<hr>
 
-### Fullstack web developer in making ... 
+###  I'm Taha Chaoui, Fullstack web developer in making  ... 
  
 <!--
 <img hight="300" width="700" alt="GIF" align="center" src="https://images.unsplash.com/photo-1579058324512-14e333833530?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80">
