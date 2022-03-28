@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   > ![LINUX](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 - ## 👩‍💻 IDE
   > ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=3b9b6d)
+  
+<hr>
 
 <p align="center">
   <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinichi23&langs_count=10&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
