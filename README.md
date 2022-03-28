@@ -1,4 +1,4 @@
-### <h1>Hey mates, I'm Taha Chaoui, Fullstack web developer in making  ... !!</h1>
+### <h2>Hey mates, I'm Taha Chaoui, Fullstack web developer in making  ... !!</h2>
 
 - 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/Angular-white?style=flat&logo=angular&logoColor=red)
 
