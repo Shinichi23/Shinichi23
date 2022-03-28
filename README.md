@@ -1,6 +1,5 @@
-### <h3>Hey mates, Welcome to my github page !!</3>
+### <h3>Hey mates, Welcome to my github page !!</h3>
 
-<hr>
 <hr>
 <hr>
 
