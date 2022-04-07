@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 - ## ⚡ Database
   > ![MongoDB](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=MongoDb)
    
-- ## 🚀 Frameworks beginner's level
-  > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Angular](https://img.shields.io/badge/Angular-white?style=flat&logo=angular&logoColor=red) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+- ## 🚀 Frameworks (beginner's level)
+  > ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Angular](https://img.shields.io/badge/Angular-white?style=flat&logo=angular&logoColor=red) ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-the-badge&logo=material-ui&logoColor=white)   
+ 
+- ## 👩‍💻 Tools
+  > ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  
 - ## 💻 OS
   > ![LINUX](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 - ## 👩‍💻 IDE
