@@ -1,4 +1,4 @@
-### <h2>Hey mates, I'm Taha, NoCode Developer and aspiring Software Developer ... !!</h2>
+### <h2>Hey mates, I'm Taha, Aspiring Software Developer ... !!</h2>
 
 - 🌱 I’m currently learning:
 -  ![Angular](https://img.shields.io/badge/Angular-white?style=flat&logo=angular&logoColor=red)
