@@ -1,4 +1,4 @@
-### <h1 align="center">Hey mates, I'm Taha, Aspiring Software Developer 🚀🚀</h1>
+### <h1 align="center">🚀 Hey mates, I'm Taha, Aspiring Software Developer 🚀</h1>
   
   <!--
 - 🌱 I’m currently learning:
