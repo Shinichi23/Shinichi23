@@ -1,4 +1,4 @@
-### <h1 align="center">🚀 Hey mates, I'm Taha, On my road to becoming a Software Engineer 🚀</h1>
+### <h1 align="center">🚀 Hey mates, I'm Taha, On my way to becoming a Golang Software Engineer 🚀</h1>
   
   <!--
 - 🌱 I’m currently learning:
