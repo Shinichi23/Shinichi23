@@ -1,6 +1,7 @@
 ### <h1 align="center">🚀 Hey mates, I'm Taha, On my way to becoming a Golang Software Engineer 🚀</h1>
 <hr>
-### Learning | Using 🧠
+
+### <h3> Learning | Using 🧠 </h3>
 
 <code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></a></code>
 <code><a href="[https://go.dev](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
