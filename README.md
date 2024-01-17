@@ -8,10 +8,10 @@ I'm Taha, a passionate self-taught developer on a journey to master the art of b
 - 🌱 Always eager to explore new technologies and improve my coding skills.
 - 💼 Actively seeking opportunities to contribute to open-source projects and collaborate on innovative solutions.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack | Learning Stack 📚
 
-- **Languages:** Golang | Javascript | HTML5 | CSS3.
-- **Tools & Frameworks:** Git | Linux | VSC | MangoDB | Postman ...
+- **Languages:** Golang | Javascript | HTML5 | CSS3 | SQL ...
+- **Tools & Frameworks:** Git | Linux | VSC | MangoDB | Postman | Redis ...
 
 ## 🌐 Projects
 <!--
@@ -21,7 +21,7 @@ Here are some projects I'm proud of:
 2. [Project 2: Brief Description]
 3. [Project 3: Brief Description]
 -->
-Feel free to explore more on my [GitHub Repositories](https://github.com/YourUsername).
+Feel free to explore more on my [GitHub Repositories](https://github.com/Shinichi23?tab=repositories).
 
 ## 📫 Let's Connect
 <!--
