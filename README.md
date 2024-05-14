@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Taha, a passionate self-taught developer on a journey to master the art of backend development using Golang.
+I'm Taha, a passionate self-taught developer on a journey to master the art of programming.
 
 ## 🚀 About Me
 
