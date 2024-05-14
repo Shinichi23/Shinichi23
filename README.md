@@ -4,13 +4,13 @@ I'm Taha, a passionate self-taught developer on a journey to master the art of b
 
 ## 🚀 About Me
 
-- 🔭 Currently learning Golang for backend development.
+- 🔭 Currently learning Python.
 - 🌱 Always eager to explore new technologies and improve my coding skills.
 - 💼 Actively seeking opportunities to contribute to open-source projects and collaborate on innovative solutions.
 
 ## 🛠️ Tech Stack | Learning Stack 📚
 
-- **Languages:** Golang | Javascript | HTML5 | CSS3 | MySQL ...
+- **Languages:** Python | Golang | Javascript | HTML5 | CSS3 | MySQL ...
 - **Tools & Frameworks:** Git | Linux | VSC | MangoDB | Postman | MariaDB | Gorm ...
 
 ## 🌐 Projects
