@@ -37,4 +37,4 @@ Looking forward to connecting with fellow developers and learning together! 🤝
   <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinichi23&langs_count=10&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
 </p>
 
-[![Taha's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinichi23)](https://github.com/shinichi23/github-readme-stats)
