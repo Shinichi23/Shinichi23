@@ -1,10 +1,10 @@
 # Hello, World! 👋
 
-I'm Taha, a passionate self-taught developer on a journey to master the art of programming.
+I'm Taha, a passionate self-taught. <!-- developer on a journey to master the art of programming. -->
 
 ## 🚀 About Me
 
-- 🔭 Currently learning Python.
+<!--- 🔭 Currently learning Python.-->
 - 🌱 Always eager to explore new technologies and improve my coding skills.
 - 💼 Actively seeking opportunities to contribute to open-source projects and collaborate on innovative solutions.
 
