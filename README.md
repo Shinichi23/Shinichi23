@@ -1,41 +1,37 @@
 # Hello, World! 👋
 
-I'm Taha, a passionate self-taught. <!-- developer on a journey to master the art of programming. -->
+I'm **Taha**, an **Application & Infrastructure Cybersecurity Specialist** and Full-Stack Developer. I focus on building secure, minimalist digital assets and hardening the gap between code and infrastructure.
 
 ## 🚀 About Me
 
-<!--- 🔭 Currently learning Python.-->
-- 🌱 Always eager to explore new technologies and improve my coding skills.
-- 💼 Actively seeking opportunities to contribute to open-source projects and collaborate on innovative solutions.
+- 🛡️ **Cybersecurity:** Focused on Pentesting, DevSecOps, and secure architecture.
+- 🏗️ **Development:** Building responsive apps with Flutter, Python, and Golang.
+- 🌱 Currently exploring advanced automated vulnerability research and cloud security.
+- 💼 Open to collaborations on open-source security tools and innovative solutions.
 
-## 🛠️ Tech Stack | Learning Stack 📚
+## 🛠️ Tech Stack
 
-- **Languages:** Python | Golang | Javascript | SQL | HTML5 | CSS3 | MySQL ...
-- **Tools & Frameworks:** Git | Linux | VSC | MangoDB | Postman | Gorm ...
+### 🛡️ Security & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-B1272C?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-## 🌐 Projects
-<!--
-Here are some projects I'm proud of:
+### 💻 Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-1. [Project 1: Brief Description]
-2. [Project 2: Brief Description]
-3. [Project 3: Brief Description]
--->
-Feel free to explore more on my [GitHub Repositories](https://github.com/Shinichi23?tab=repositories).
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📫 Let's Connect
-<!--
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Twitter: [Your Twitter Handle](Your Twitter Handle Link)
--->
-Looking forward to connecting with fellow developers and learning together! 🤝
+---
 
-##
-
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinichi23&langs_count=10&title_color=59A5FA&icon_color=3498db&text_color=C7D4E2&border_color=30363d&bg_color=0d1117&layout=compact&color=C7D4E2" alt="Top Languages" title="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shinichi23&layout=compact&theme=radical&hide_border=true" alt="Taha's Top Languages" />
 </p>
-<!--
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinichi23)](https://github.com/shinichi23/github-readme-stats)
--->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shinichi23&theme=radical&hide_border=true" alt="Taha's GitHub Streak" />
+</p>
+
+## 🌐 Let's Connect
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Shinichi23) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN)
